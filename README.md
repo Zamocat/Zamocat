@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there ,
+
+I'm a full stack developer and a recent graduate from UMass Amherst studying Computer Science. I'm looking for full time work right now!
+
+I'm interested in sustainability, programming languages, and the web.
+
+In my spare time I climb, cycle, play drums, and write games. You can see those games at https://terracottafrog.itch.io
+
+Eu sou o Mateus, desenvolvedor em várias tecnologias, com foco em NodeJs, ReactJs, Typescript, Javascript e NextJs, já trabalhei também com linguagens como C#, ASP.net dentre outras...
+
 
 <!--
 **Zamocat/Zamocat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
